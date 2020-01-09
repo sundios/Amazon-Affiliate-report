@@ -6,7 +6,7 @@ from selenium.webdriver.support.expected_conditions import presence_of_element_l
 from selenium.webdriver.support import expected_conditions as EC
 import time 
 
-download_dir = input("please enter directory where you want to save yopur file: ")
+download_dir = input("please enter directory where you want to save your file: ")
 
 user = input("Please enter your user name: ")
 
